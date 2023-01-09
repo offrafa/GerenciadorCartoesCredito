@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\rafae\Documents\ALURA\GerenciadorCartoesCredito\GerenciadorCartoesCredito\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\rafae\Documents\ALURA\GerenciadorCartoesCredito\GerenciadorCartoesCredito\obj\Release\netcoreapp3.1\win-x64\PubTmp\EFSQLScripts\GerenciadorCartoesCredito.Models.Contexto.sql" />
+</sitemanifest>

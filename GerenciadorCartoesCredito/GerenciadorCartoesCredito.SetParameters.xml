@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="ValidandoProjeto.com" />
+  <setParameter name="GerenciadorCartoesCredito.Models.Contexto" value="Integrated Security=SSPI;Persist Security Info=False;User ID=Rafa;Initial Catalog=ControleCartoes;Data Source=LAPTOP-2R8BRF4I\SQLEXPRESS01" />
+</parameters>
